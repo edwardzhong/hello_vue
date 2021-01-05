@@ -17,7 +17,7 @@
   "author": "Jeff Zhong",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "element-ui": "^2.13.0",
     "vue": "^2.6.10",
     "vue-class-component": "^7.1.0",
